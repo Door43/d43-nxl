@@ -48,3 +48,6 @@
   - [[nxl:obs:48|Jesus is the Promised Messiah]]
   - [[nxl:obs:49|God's New Covenant]]
   - [[nxl:obs:50|Jesus Returns]]
+  * [[nxl:obs:front-matter|Front Matter]]
+  * [[nxl:obs:back-matter|Back Matter]]
+  * [[nxl:obs:app_words|Mobile App Words]]
