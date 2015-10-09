@@ -9,17 +9,12 @@
 
   * [[nxl:obs|Open Bible Stories (nxl)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-nxl|d43-nxl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nxl/archive/master.zip|d43-nxl.zip]]
 
 **Recent Changes**
 {{changes>ns = nxl}}
-
-**Latest Status**
-{{page>en:uwadmin:nxl:obs:status}}
-
 
 **Language Information**
 
@@ -29,5 +24,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
   * [[nxl:obs|Open Bible Stories (nxl)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:nxl:obs:status}}
